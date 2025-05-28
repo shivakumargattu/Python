@@ -25,3 +25,10 @@ def count_occurrence(arr, target):
 
 result1=count_occurrence([2,3,4,44,4,4,4,4,4],4)
 print(result1)        
+
+# uing biltin fun
+
+def count_occernce(arr,tar):
+    return arr.count(tar)
+
+print(count_occernce([1,21,1,1,1,1,3,4,5],1))
