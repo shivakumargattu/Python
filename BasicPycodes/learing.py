@@ -7,7 +7,10 @@ for i in range(1,101):
         print("Fizz",i)
     elif i%5==0:
         print("Buzz",i)
+        
 # Reverse a String: Without using built-in methods.
+
+
 
 # Palindrome Check: Determine if a string is a palindrome.
 
